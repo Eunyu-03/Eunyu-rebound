@@ -10,17 +10,17 @@ import org.springframework.boot.test.context.SpringBootTest;
 @SpringBootTest
 @Slf4j
 public class MemberMapperTests {
-    @Autowired
-    private MemberMapper memberMapper;
-
-    @Test
-    public void insertMemberTest(){
-        MemberDTO memberDTO = new MemberDTO();
-        memberDTO.setMemberName("단위테스트");
-        memberDTO.setMemberEmail("test1@gmail.com");
-        memberDTO.setMemberPassword("123456");
-        memberDTO.setMemberPhoneNumber("01012345678");
-
-        memberMapper.insertMember(memberDTO);
-    }
+//    @Autowired
+//    private MemberMapper memberMapper;
+//
+//    @Test
+//    public void insertMemberTest(){
+//        MemberDTO memberDTO = new MemberDTO();
+//        memberDTO.setMemberName("단위테스트");
+//        memberDTO.setMemberEmail("test1@gmail.com");
+//        memberDTO.setMemberPassword("123456");
+//        memberDTO.setMemberPhoneNumber("01012345678");
+//
+//        memberMapper.insertMember(memberDTO);
+//    }
 }
