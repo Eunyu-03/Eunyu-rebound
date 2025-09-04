@@ -8,12 +8,12 @@ import org.springframework.boot.test.context.SpringBootTest;
 @SpringBootTest
 @Slf4j
 public class TimeMapperTests {
-//    @Autowired
-//    private TimeMapper timeMapper;
-//
-//    @Test
-//    public void testTimeMapper() {
-//        log.info(timeMapper.getTime());
-//    }
+    @Autowired
+    private TimeMapper timeMapper;
+
+    @Test
+    public void testTimeMapper() {
+        log.info(timeMapper.getTime());
+    }
 
 }

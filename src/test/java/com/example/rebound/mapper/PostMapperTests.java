@@ -9,8 +9,8 @@ import org.springframework.boot.test.context.SpringBootTest;
 @SpringBootTest
 @Slf4j
 public class PostMapperTests {
-//    @Autowired
-//    private CommunityListMapper postMapper;
-//
+    @Autowired
+    private CommunityListMapper postMapper;
+
 
 }
