@@ -22,10 +22,10 @@
 </head>
 <body>
 <th:block th:if="${session.member != null || session.counselor != null}">
-            <header th:replace="~{/main-page/header2.html :: #app-header}"></header>
+            <header th:replace="~{main-page/header2.html :: #app-header}"></header>
         </th:block>
         <th:block th:unless="${session.member !=null || session.counselor != null}">
-            <header th:replace="~{/main-page/header.html :: #app-header}"></header>
+            <header th:replace="~{main-page/header.html :: #app-header}"></header>
         </th:block>
 <!--<header th:replace="~{/main-page/header2.html :: #app-header}"></header>-->
     <main class="main">
@@ -138,7 +138,7 @@
 <!--            </section>-->
         </div>
     </main>
-<footer th:replace="~{/main-page/footer.html :: #app-footer}"></footer>
+<footer th:replace="~{main-page/footer.html :: #app-footer}"></footer>
 </body>
 <script th:inline="javascript">
     const counselorId = [[${session.counselor.id}]];

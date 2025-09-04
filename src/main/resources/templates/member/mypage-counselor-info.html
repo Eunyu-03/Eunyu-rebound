@@ -20,10 +20,10 @@
 </head>
 <body>
 <th:block th:if="${session.member != null || session.counselor != null}">
-            <header th:replace="~{/main-page/header2.html :: #app-header}"></header>
+            <header th:replace="~{main-page/header2.html :: #app-header}"></header>
         </th:block>
         <th:block th:unless="${session.member !=null || session.counselor != null}">
-            <header th:replace="~{/main-page/header.html :: #app-header}"></header>
+            <header th:replace="~{main-page/header.html :: #app-header}"></header>
         </th:block>
     <main class="main">
         <div class="main-1">
@@ -114,7 +114,7 @@
             </div>
         </div>
     </main>
-<footer th:replace="~{/main-page/footer.html :: #app-footer}"></footer>
+<footer th:replace="~{main-page/footer.html :: #app-footer}"></footer>
 </body>
 <script src="/js/counselor/mypage-info/module/service.js"></script>
 <script src="/js/counselor/mypage-info/module/layout.js"></script>
