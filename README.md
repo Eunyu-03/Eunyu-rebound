@@ -10,7 +10,7 @@
 
 <img width="1957" height="1099" alt="image" src="https://github.com/user-attachments/assets/8e55b132-fa1b-44ee-89e4-2841abf31de8" />
 
-마음의 휴식처 마련하고, 위안을 받고 또 주는 선순환을 생성하여 실패를 부정적만 여기는 사회 분위기 타파에 도움을 줄 수 있을 것으로 보인다.
+마음의 휴식처를 마련하고, 위안을 받고 또 주는 선순환을 생성하여 실패를 부정적만 여기는 사회 분위기 타파에 도움을 줄 수 있을 것으로 보인다.
 
 
 
@@ -55,20 +55,24 @@
 
 ### 1. 프론트엔드
 
-<img width="1527" height="550" alt="image" src="https://github.com/user-attachments/assets/ff688077-9f7b-4167-aefc-74efe623fcb0" />
+<img width="1969" height="269" alt="image" src="https://github.com/user-attachments/assets/67119027-c4ca-4437-a46c-bd9f24befdf8" />
 
-기업 콘솔
-- 기업 홈(공고와 광고 관련 정보 표시)
-- 기업 프로필 편집
-- 체험 공고 등록
-- 체험 공고 목록
-- 체험 공고 수정
-- 인턴 공고 등록
-- 인턴 공고 목록
-- 인턴 공고 수정
-- 새 광고
-- 광고 목록
-- 결제 내역
+메인 페이지
+- 서비스 소개 화면
+- 메인 페이지 구성
+- header
+- footer
+
+고객센터
+- 1대1 문의
+- 공지 사항 목록
+- 공지 사항 상세
+- 자주 묻는 질문 목록
+- 자주 묻는 질문 상세
+- 고객센터 통합 검색
+
+서비스 소개
+- 서비스 소개 화
 
 ### 2. 백엔드
 
