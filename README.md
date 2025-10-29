@@ -20,15 +20,15 @@
 
 ## 🛠️ 3. 프로젝트 사용 툴 & 스킬
 
-- 💻 Java, JavaScript, HTML, CSS, JSP
-- 🧩 Spring Boot, MyBatis, JUnit, JSON, YML
-- 🗄️ Mysql, DBeaver
-- 🧪 IntelliJ, VS Code
-- ☁️ AWS EC2, AWS IAM
-- 🧠 Kakao DEVELOPER API
-- 🔧 GitHub, Git-Bash, Gradle
-- 🗨️ Slack
-- 🎨 Thymeleaf
+- Java, JavaScript, HTML, CSS, JSP
+- Spring Boot, MyBatis, JUnit, JSON, YML
+- Mysql, DBeaver
+- IntelliJ, VS Code
+- AWS EC2, AWS IAM
+- Kakao DEVELOPER API
+- GitHub, Git-Bash, Gradle
+- Slack
+- Thymeleaf
 
 ---
 
