@@ -12,8 +12,6 @@
 
 마음의 휴식처를 마련하고, 위안을 받고 또 주는 선순환을 생성하여 실패를 부정적만 여기는 사회 분위기 타파에 도움을 줄 수 있을 것으로 보인다.
 
-
-
 ## 3. 프로젝트 사용 툴&스킬
 
 - Java
@@ -37,15 +35,36 @@
 - Intelli J
 - DBeaver
 - Kakao DEVELOPER API
-- JavaMail
 - Git(Git-hub)
 - Git-Bash
 - YML
 - Gradle
 - Slack
 
+## 🎨 2. UI/UX 화면 설계
+
+### 🔍 벤치마킹 웹 사이트: 숨고
+
+- HTML, CSS, JS를 활용하여 숨고 사이트를 클론 코딩하였다.
+- JS로 유효성 검사 등 동적 이벤트를 추가했다.
+
+#### 🖼️ 예시 이미지
+
+<p align="center">
+  <img width="1898" height="904" alt="image" src="https://github.com/user-attachments/assets/ab033933-0efa-4bc6-8cdb-2ff788a22285" />
+</p>
+
+#### 🧪 클론 코딩
+
+<p align="center">
+  <img width="1900" height="901" alt="image" src="https://github.com/user-attachments/assets/ff7bf34b-56ab-49ac-9171-180976e9624f" />
+</p>
+
 
 ## 4. ERD
+
+- 테이블 간의 관계를 고려하여 설계하였다.
+- DML 문법으로 실제 데이터를 직접 `insert`, `update`, `delete`, `select` 하고 확인했다.
 
 <img width="4004" height="4356" alt="image" src="https://github.com/user-attachments/assets/111d85e5-2f70-4566-b9c5-634d51e0bdd9" />
 
